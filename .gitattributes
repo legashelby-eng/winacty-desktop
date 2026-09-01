@@ -1,0 +1,7 @@
+# Configuration for git attributes
+# Generated on 2026-11-06
+docs/** linguist-vendored
+*.html linguist-vendored
+*.ts linguist-detectable
+*.min.js linguist-generated
+*.yaml linguist-detectable=false
