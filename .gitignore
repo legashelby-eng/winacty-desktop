@@ -1,0 +1,8 @@
+npm-debug.log*
+.pnpm-store/
+.env
+.next/
+.DS_Store
+build/
+coverage/
+.env.local
